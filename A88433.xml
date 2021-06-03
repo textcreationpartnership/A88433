@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A logical demonstration of the lawfulness of subscribing the new Engagement. Or, Promise to be true and faithful to the Common-Weal as it is now established: in four arguments. As a just apology for such as have conscienciously subscribed: and for satisfaction of others, who may be called to subscribe; especially if they had formerly taken the Solemn League &amp; Covenant.</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88433</idno><idno type="EEBO-CITATION">99862939</idno>
+  <idno type="VID">165521</idno>
+  <idno type="EEBO-PROQUEST">2240893912</idno>
+  
+            <idno type="STC">Wing L2839</idno>
+            <idno type="STC">Thomason E590_11</idno>
+            <idno type="STC">ESTC R202755</idno>
+            <idno type="PROQUEST">99862939</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862939e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88433)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165521)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 90:E590[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A logical demonstration of the lawfulness of subscribing the new Engagement. Or, Promise to be true and faithful to the Common-Weal as it is now established: in four arguments. As a just apology for such as have conscienciously subscribed: and for satisfaction of others, who may be called to subscribe; especially if they had formerly taken the Solemn League &amp; Covenant.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Macock for Giles Calvert, at the black Spread-Eagle neer the west end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotations on Thomason copy: "Jan: 30th 1649", the 51 in imprint date  crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165521:1"/>
+            <p>A Logical Demonstration Of the Lawfulness of Subscribing the New Engagement.</p>
+            <p>OR, Promise to be True and Faithful to the Common-Weal As it is now Established: In four <hi>ARGƲMENTS.</hi>
+            </p>
+            <p>As a just Apology for such as have Conscienciously Subscribed: And for Satis<g ref="char:EOLhyphen"/>faction of others, who may be called to Subscribe; Especially if they had formerly taken the <hi>Solemn League &amp; Covenant.</hi>
+            </p>
+            <p>
+               <add>Jan: 30<seg rend="sup">th</seg> 1649.</add>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Macock</hi> for <hi>Giles Calvert,</hi> at the black Spread-Eagle neer the West end of <hi>Pauls.</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:165521:2"/>
+            <head>
+               <hi>A LOGICAL</hi> DEMONSTRATION Of the Lawfulness of Subscribing the New Engagement.</head>
+            <p>
+               <hi>Argum.</hi> 1. <hi>THat which is our duty to do, that we may promise and engage to do, if required: But 'tis our duty to be true and faithful to the Common-weal as now establish'd:</hi> Ergo, <hi>'Tis lawful to promise and engage, being required.</hi>
+            </p>
+            <p>The first proposition will not be denyed: For if it be lawful to promise to do many things, to which we are not bound till we promise, much more to do that which is a duty before we promise, as <hi>to serve God according to his Will, to obey Parents, to do Justice according to our places, &amp;c.</hi>
+            </p>
+            <p>The second proposition appears by this <hi>Argument.</hi>
+            </p>
+            <p>
+               <hi>To live peaceably, and to submit to necessary Impositions, and lawful Commands, is neither more nor less then to be true and faithful. But 'tis our duty to live peaceably, and to submit to neces<g ref="char:EOLhyphen"/>sary Impositions, and lawful Commands:</hi> Ergo,</p>
+            <p>
+               <hi>'Tis a duty to be true and faithful.</hi>
+            </p>
+            <p>The second proposition is granted plainly by the <hi>dissenting Bre<g ref="char:EOLhyphen"/>thren</hi> the reverend Ministers in the first part of their <hi>Answer,</hi> or first <hi>Reason,</hi> which they also promise to do.</p>
+            <p>The truth of the first proposition, namely, <hi>That to live peace<g ref="char:EOLhyphen"/>able, and to submit to necessary Impositions, and lawful Commands,</hi> is all one with <hi>Faithfulness,</hi> appears from <hi>Scripture.</hi>
+            </p>
+            <p>For <hi>Submission,</hi> which is acknowledged to be due to the <hi>pre<g ref="char:EOLhyphen"/>sent Government,</hi> must come under the <hi>Apostolical Precept, Rom.</hi> 13.1. and 1 <hi>Pet.</hi> 2.13. <hi>Let every Soul be subject, and submit to every Ordinance of man.</hi> Now that <hi>Submission</hi> com<g ref="char:EOLhyphen"/>prehends
+<pb n="3" facs="tcp:165521:2"/>
+               <hi>Fidelity</hi> in it, or under it, as is evident, <hi>Tit.</hi> 2.9, 10. <hi>Ser<g ref="char:EOLhyphen"/>vants must be obedient to their Masters, shewing all good faith, or fidelity. Fidelity</hi> is part of their <hi>obedience,</hi> or a due qualification of it: And that <hi>obedience</hi> is nothing else but <hi>submission</hi> and <hi>sub<g ref="char:EOLhyphen"/>jection:</hi> for 'tis the same Greek word which we translate, <hi>Rom.</hi> 13.1. and 1 <hi>Pet.</hi> 2.13. <hi>Be subject, and submit to.</hi> Therefore <hi>Obedience, Submission, Subjection,</hi> and <hi>Fidelity,</hi> is all one, and he that promises one, promises the other also.</p>
+            <p>
+               <hi>Argum.</hi> 2. <hi>It is lawful to promise Fidelity to the Higher Pow<g ref="char:EOLhyphen"/>ers, or Super-eminent Authority, if they do require it.</hi>
+            </p>
+            <p>
+               <hi>But the Common-weal, as now establish'd, is the Higher Powers, or Super-eminent Authority:</hi> Ergo, <hi>'Tis lawful to promise Fi<g ref="char:EOLhyphen"/>delity to it.</hi>
+            </p>
+            <p>The first Proposition appears,</p>
+            <p>First, <hi>Subjection may be promised to the Higher Powers,</hi> Rom. 13.1. <hi>Fidelity is subjection,</hi> as appears above: <hi>Ergo, Fidelity may be promised.</hi>
+            </p>
+            <p>Again, <hi>Whatsoever is a part of Subjection may be promised to the Higher Powers. A promise of Subjection, being required, is a part of Subjection:</hi> Ergo,</p>
+            <p>
+               <hi>A promise of Subjection may be made to the Higher Powers.</hi>
+            </p>
+            <p>The <hi>Oath of Allegiance,</hi> formerly required, was an <hi>act or token of Subjection.</hi>
+            </p>
+            <p>The second proposition none will deny at this present, namely, <hi>That the Common-weal, as now establish'd, is the Higher Power, and Super-eminent Authority,</hi> as the word signifies.</p>
+            <p>Object. <hi>This is true of Lawful Powers, namely, such as have a lawful Title, but not of an Ʋsurped and Intruding Power, as this is supposed to be.</hi>
+            </p>
+            <p>
+               <hi>Solut.</hi> It is answered; First, This is not fitly objected to the <hi>present Power,</hi> for that is not a <hi>Power</hi> by <hi>Intrusion, Invasion,</hi> or <hi>Ʋsurpation,</hi> but <hi>Devolution.</hi> In the Wars, if the <hi>Captain</hi> be slain, the place devolves to the next Power, the <hi>Lieutenant:</hi> If all the <hi>Officers</hi> slain, some of the <hi>Common Soldiers</hi> must act as Offi<g ref="char:EOLhyphen"/>cers for saving the rest; and yet this is no <hi>Ʋsurpation</hi> nor <hi>Invasi<g ref="char:EOLhyphen"/>on.</hi> If a Ship be wrackt, the goods are theirs to whose shore they do devolve, which is by a meer act of Providence, and not a design of man.</p>
+            <p>That this War was raised in design to change the <hi>Government,</hi>
+               <pb n="4" facs="tcp:165521:3"/>there is none, who were engaged in the <hi>Covenant,</hi> date avouch, unless they will render the <hi>Parliament</hi> and <hi>themselves</hi> absolute <hi>Truytors.</hi> But we say, in the truth of the thing, God witnessing with our Consciences, That this War was defensive against a Com<g ref="char:EOLhyphen"/>mon Enemy, whose <hi>Right</hi> and <hi>just Title</hi> it was <hi>to Rule according to Law, and for the good of his Subjects, and not to their de<g ref="char:EOLhyphen"/>struction;</hi> who having desperately split himself upon the Rock of our Defensive War, and resolved to win the Horse or lose the Saddle, hath wrackt the Ship of the <hi>Common-weal</hi> as much as in him lay; and in the wrack all the old Form being broken, and but a peice of a <hi>Parliament</hi> left (in which notwithstanding the life of the whole doth virtually reside) the Care of new-mending, and new-rigging the whole, doth necessarily devolve to them, as the next shore where the goods of the <hi>Common-weal</hi> are by providence arrived.</p>
+            <p>If <hi>King</hi> and <hi>Parliament</hi> had both been broken to pieces in this sad Calamity, the Care of new-molding the whole, had necessarily devolved to the Heads of Families, in whom the rest are represent<g ref="char:EOLhyphen"/>ed without any <hi>usurpation.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> 2. Secondly, If the <hi>Title</hi> of the <hi>present Government</hi> were worse then 'tis, yet it being in full possession, and the <hi>Super<g ref="char:EOLhyphen"/>eminent Authority, Subjection</hi> and <hi>Fidelity</hi> were due to it.</p>
+            <p>For the Apostle, when he commands Christians to be <hi>subject to Higher Powers,</hi> does not meddle with the Title of the person that possess those Powers. He does not say, <hi>Let them be subject, if they have a good Title;</hi> for that would have left Obedience at a meer uncertainty, opened a door of Disobedience, to such as had a minde to cavil, and would not have stopp'd the mouths of <hi>ignorant and foolish men</hi> (1 <hi>Pet.</hi> 2.15, 16.) who would quickly have re<g ref="char:EOLhyphen"/>proached the Gospel with this, <hi>These Christians will cloke their disobedient practices, under colour of enquiring into the Title of those that do Command.</hi>
+            </p>
+            <p>
+               <hi>Joseph</hi> and <hi>Daniel,</hi> employed in great Offices of Trust under two <hi>great Tyrants,</hi> questioned not, whether they should be <hi>faith<g ref="char:EOLhyphen"/>ful,</hi> unless the <hi>Title</hi> were cleer to them.</p>
+            <p>Neither did the Christians, employed in services under <hi>Heathen</hi> Emperors, make scruple of their <hi>fidelity,</hi> though their <hi>titles</hi> might be none of the best.</p>
+            <p>
+               <hi>Ans.</hi> 3. Besides, It is to be observed, That which is <hi>Gods Insti<g ref="char:EOLhyphen"/>tution</hi>
+               <pb n="5" facs="tcp:165521:3"/>in <hi>Government,</hi> to which Subjection hath Relation, is not the <hi>Title of the Governor,</hi> or <hi>the Form of Government,</hi> but the <hi>Place, Power,</hi> and <hi>Authority</hi> of <hi>Governing.</hi> The <hi>Title</hi> and the <hi>Form</hi> are of <hi>Humane Creation,</hi> 1 <hi>Pet.</hi> 2.13. The <hi>Power</hi> and <hi>Authority</hi> is of <hi>Divine Institution;</hi> 'Tis his <hi>Ordinance</hi> that <hi>Pow<g ref="char:EOLhyphen"/>ers</hi> should be: and the <hi>Powers</hi> that are, saith the Apostle, are <hi>subordained to God,</hi> or <hi>ordained under God,</hi> as the words might be fitly translated. God himself is the <hi>Fountain</hi> and <hi>Head</hi> of all <hi>Power,</hi> and under himself he hath appointed <hi>Principalities</hi> and <hi>Powers</hi> for <hi>Government</hi> in the World.</p>
+            <p>
+               <hi>Servants must obey froward Masters:</hi> The <hi>froward Master</hi> is not <hi>Gods Ordinance,</hi> but the <hi>Government</hi> of the <hi>froward Ma<g ref="char:EOLhyphen"/>ster</hi> is <hi>Gods Ordinance:</hi> So if any usurp <hi>Government,</hi> and confirm their <hi>Ʋsurpation</hi> by <hi>Conquest,</hi> their <hi>Ʋsurpation</hi> and <hi>Conquest</hi> is not <hi>Gods Ordinance,</hi> but their <hi>Acts</hi> of <hi>Government,</hi> ordered to the right ends of <hi>Government,</hi> are <hi>Gods Ordinance,</hi> and to be obeyed.</p>
+            <p>Therefore, as when <hi>Antichrist</hi> fits in <hi>Gods Temple,</hi> I distin<g ref="char:EOLhyphen"/>guish 'twixt the <hi>Ordinance of God,</hi> and the <hi>Corruption of man;</hi> That which is of God I must own, notwithstanding the usurpation of man: So must I own the <hi>Power,</hi> when I cannot own the <hi>title</hi> of him that manages the <hi>Power:</hi> And whatsoever is carryed on by a <hi>lawful Power,</hi> though by an <hi>unlawful hand,</hi> I am to be sub<g ref="char:EOLhyphen"/>ject to.</p>
+            <p>Argum. 3. <hi>The determinations of providence are to be owned and submitted to: But that the Common-weal be establisht as now it is, is the determination of providence.</hi> Ergo, <hi>'Tis to be owned and submitted to, and so fidelity promised to it if required.</hi>
+            </p>
+            <p>By <hi>determinations of providence</hi> is meant such acts of providence, whereby he doth finally determine a thing, before doubtful, in mans judgment.</p>
+            <p>That the present Establishment is the determination, or the result of a determination of providence, few will deny</p>
+            <p>It will be the clearer, if we consider, That both <hi>King</hi> and <hi>Parli<g ref="char:EOLhyphen"/>ament</hi> did both solemnly appeal to God for ending this Contro<g ref="char:EOLhyphen"/>versie, either of them wishing they might so prosper, as they were sincere in their desires for <hi>Religion, Liberty of Subject, Priviledg of Parliament, &amp;c.</hi> Now the Lot was cast into the Lap, but the whole disposition of it was of the Lord. There was no power on
+<pb n="6" facs="tcp:165521:4"/>earth to appeal to. God was appealed to, what then was the Issue but a judicial determination from Heaven?</p>
+            <p>Now when God hath judicially given sentence, ought not his sentence to be owned and conformed to?</p>
+            <p>
+               <hi>He doth according to his own will in the Armies of Heaven, and with the inhabitants of the earth,</hi> (<hi>Dan.</hi> 4.34, 35.) He puts down one, and sets up another, who then shall say, <hi>What dost thou?</hi> But if I say I will be faithful to him that is put down, and not to him that is set up, do I not then say, <hi>What dost thou?</hi>
+            </p>
+            <p>
+               <hi>David</hi> had a good title to the Kingdom, but all men did not see it. but some took him for a Rebel: But when <hi>Saul</hi> was dead, the War ended, and a great part of the people come in; now those that would not submit, when they saw it was Gods work, by a clear <hi>determination of providence,</hi> they were accounted <hi>opposers of God,</hi> more then of <hi>David.</hi>
+            </p>
+            <p>So he saith, <hi>Psal.</hi> 28.5. <hi>Because they regard not the work of the Lord, nor the operation of his hands, he shall destroy them, and not build them up.</hi>
+            </p>
+            <p>Upon this ground it was that <hi>Rehoboam</hi> (2 <hi>Chron.</hi> 11.1, 2, 3, 4.) forbore to fight against <hi>Jeroboam</hi> for bringing the people back to him, because he understood it was a final determination of provi<g ref="char:EOLhyphen"/>dence.</p>
+            <p>And upon the like ground the Jews and others were perswaded to submit to the King of <hi>Babylon</hi> (<hi>Jer.</hi> 27.5, 6, 7, 8.) because it was now by providence to be cast on him to be the Conqueror: And although on these two examples the mind of God was revealed by Prophecy; yet they prove this, That when Gods will in this kind is revealed, it is to be submitted to. And in these days we cannot expect a further revelation in such cases, then such as providence shall dictate, especially in case of immediate appeals to God.</p>
+            <p>Argum. 4. <hi>That which we are bound to do by the late Covenant in the true sence and meaning of it, is lawful to do, unless we que<g ref="char:EOLhyphen"/>stion the lawfulness of the Covenant. But to this Engagement, if required, we are bound to by the Covenant, rightly understood.</hi> Ergo, <hi>This Engagement is lawful.</hi>
+            </p>
+            <p>The second Proposition will appear thus:</p>
+            <p>In the sixth Article of the <hi>Covenant,</hi> the common Cause in which we have stood, and for the promoting of which we co<g ref="char:EOLhyphen"/>venanted, is there asserted to be <hi>Religion, the true Liberties and
+<pb n="7" facs="tcp:165521:4"/>Peace of the Kingdoms.</hi> And in this Cause we engage to continue zealously and constantly all the days of our lives, against all opposi<g ref="char:EOLhyphen"/>tion and combinations, according to our places and Callings, with<g ref="char:EOLhyphen"/>out defection to the contrary part, or neutrality.</p>
+            <p>The contrary part, in the true sence of the <hi>Covenant,</hi> was the <hi>King,</hi> and <hi>his party, his posterity,</hi> or others, so long as they persisted in the way of opposition they were in, and came not in to us, to the preservation of this common Cause, as appears in the third <hi>Article.</hi> And the determination of difficult questions upon emergencies, how far <hi>delinquency</hi> was to be punished, was to be by the respective <hi>Judicatories</hi> of both Kingdoms, or such as they should depute, as <hi>Artic.</hi> 4. We are therefore concluded by the <hi>Covenant</hi> to those <hi>final determinations of the Judicatory of this Kingdom,</hi> touching the Emergencies of this War, and what may be expedient from time to time to serve the ends of the <hi>Covenant,</hi> that is, the Common Cause.</p>
+            <p>We did not covenant that, be the Issue of the War what it would, <hi>That Government in form should never be altered:</hi> That had been a presumptuous Covenant. But we did covenant to serve providence, and whatsoever events befell, yet to mind the Common Cause as long as we live.</p>
+            <p>Seeing then the <hi>Common-weal,</hi> as it is now established, is the <hi>determination</hi> of our <hi>Judicatory</hi> (or so much of our <hi>Judicatory</hi> as was left, after the calamity of War) as the best expedient left after this storm for the ends of the <hi>Covenant,</hi> and there being no other visible means besides this that hath will and power to carry on those ends: We are doubtless bound by our <hi>Covenant</hi> to promote and further this in reference to those ends; and to oppose all cou<g ref="char:EOLhyphen"/>trary Combinations that oppose those ends, and that Common Cause in which we have stood.</p>
+            <p>Object. <hi>In the taking of the Covenant we had before our eyes the happiness of the King, and his posterity, but this tends to ruine them; And the preservation of his person and authority, but this destroyes them; And the honor of the King, but this buries him in perpetual Infamy.</hi>
+            </p>
+            <p>
+               <hi>Sol.</hi> The happiness of the King and his posterity was before our eyes <hi>Conjunctim,</hi> with <hi>Gods Glory,</hi> and <hi>Christs Kingdom,</hi> and the <hi>true Liberties of this Kingdom;</hi> but not <hi>divisim</hi> and <hi>separatim:</hi> We were to preserve his person <hi>Conjunctim,</hi> with <hi>Religion,</hi> and the
+<pb n="8" facs="tcp:165521:5"/>
+               <hi>Kingdoms Liberties;</hi> not <hi>separatim,</hi> and as a <hi>Common Enemy</hi> to these. We judged it not for his honor or happiness to give up our <hi>Common Cause</hi> into his hands, unless he came in to us.</p>
+            <p>Object. <hi>But we declare that all the world shall bear witness with our Consciences of our loyalty, and that we had no intent to diminish his just power and greatness.</hi>
+            </p>
+            <p>
+               <hi>Sol.</hi> First, We believe the <hi>Covenant</hi> it self did not savour of disloyalty, by putting the preservation of the Kings person and au<g ref="char:EOLhyphen"/>thority upon terms. For, as the case then stood at the making the <hi>Covenant,</hi> the King had raised War against his Parliament, endea<g ref="char:EOLhyphen"/>voring to rescend that Act especially granted by him for continu<g ref="char:EOLhyphen"/>ance of this Parliament, and had put his good Subjects out of his protection, put them to stand in defence of their lives and liberties, and became an open enemy, though in charity, and by way of indul<g ref="char:EOLhyphen"/>gence, we were willing to think otherwise, till there was scarce any ground for charity left.</p>
+            <p n="2">2. That being then supposed, that there was no Act of disloyalty in making the <hi>Covenant,</hi> and putting the preservation of his person and authority upon terms, we may clearly as yet say in the words and meaning of the <hi>Covenant;</hi>
+            </p>
+            <p>
+               <hi>As our Consciences did witness, that we proceeded not in that War out of any precedent design to diminish his authority and greatness, much less to wrong his person, but were constrained to those Acts that did diminish his power and greatness, out of necessity, for our own defence, dictated to us by the Parliament: So all the world may witness, and in time will witness, our Loyalty, when they understand how long we waited for his coming in, without change of Government, and that Government was not altered, till there was no visible hope left by him, or his Government, to attain the Ends of the Covenant.</hi>
+            </p>
+         </div>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <dateline>
+                  <date>Janu. 26. 1649.</date>
+               </dateline>
+               <signed>Joseph Caryl.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
